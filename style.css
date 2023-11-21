@@ -1,0 +1,27 @@
+section{
+    max-width: 500px;
+    margin: 50px auto;
+    border-radius: 10px;
+    background-color: rgb(165, 223, 205);
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    padding: 50px;
+}
+
+input{
+    margin-bottom: 10px;
+}
+
+button{
+    margin-top: 25px;
+    background-color: rgb(72, 148, 115);
+    border-color: cadetblue;
+    color: white;
+    border-radius: 15px;
+    padding: 5px;
+    width: 100px;
+    margin-left: 145px;
+}
